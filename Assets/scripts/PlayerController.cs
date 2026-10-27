@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float vInput;
     public float rotationSpeed;
     public Vector3 jump; 
-    public float jumpForce = 2.0f;
+    public float jumpForce = 4.0f;
 
     public bool isGrounded;
     Rigidbody rb;
